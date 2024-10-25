@@ -1,5 +1,9 @@
 # Projects
 
+<head>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
+
 ## [Vibe Mobile App](https://vibeapp.ca)
 
 <p align="center">
